@@ -2,8 +2,6 @@
 
 # Hi there, I'm Rosnel! 👋
 
-### `Engineer` • `IC Researcher` • `Car Enthusiast`
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Electronics+Engineer;Embedded+Systems+Developer;IC+Design+Enthusiast;Open-Source+Contributor;Formula+Racing+Team+Lead" alt="Typing SVG" />
 
 <p>
