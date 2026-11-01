@@ -17,16 +17,17 @@
 ```yaml
 name: Rosnel Leyva-Cortes
 location: United States
-education: Electrical Engineering, B.S. 
+education: Electrical Engineering, B.S.
+job: Avionics Electrical Engineer  
 current_focus:
-  - Analog IC Design
-  - Embedded Systems
-  - PCB Design
+  - Open Source IC Design
+  - Miniaturized, High Density PCB Design
   - Open Source Hardware
+  - Open Source Software
 currently_building:
-  - Formula Racing Automotive Electronics
-  - Custom Silicon Projects
-  - Embedded Firmware
+  - Aerospace Class Avionics PCBAs
+  - Custom Casio® Main Boards
+  - Automated tools for my aquarium 
 ```
 
 <div align="center">
